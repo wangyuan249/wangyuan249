@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Wang Ziyuan, graduated from Zhejiang University with DoubleE Master's Degree.
+- 👋 Hi there, I’m Wang Ziyuan, graduated from Zhejiang University with Master's Degree, and I major in Electrical And Electronic Engineering.
 - 👀 I’m interested in Distributed Cloud Native, Serverless, Service Mesh and Gitops.
 - 🌱 The Project I have participated in: OAM（Open Application Model）/ KubeVela, WasmEdge, [Karmada](https://karmada.io/); 
 - 🌱 Besides, the Skills I have learned include: Kubernetes, envoy, Gitops(Argocd), terraform.
