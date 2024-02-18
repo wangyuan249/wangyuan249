@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Wang Ziyuan, graduated from Zhejiang University with Master's Degree, and I major in Electrical And Electronic Engineering.
-- 👀 I’m interested in Distributed Cloud Native, Serverless, Service Mesh and Gitops.
+- 👀 I’m interested in Distributed Cloud Native, Serverless, Service Mesh and GitOps.
 - 🌱 The Projects I have participated include: [OAM](https://github.com/oam-dev/spec)（Open Application Model）/ [KubeVela](https://github.com/kubevela/kubevela), [WasmEdge](https://github.com/WasmEdge/WasmEdge), [Karmada](https://karmada.io/); 
 - 🌱 Besides, the Skills I have learned include: Kubernetes, Envoy, Gitops, Terraform.
 - 💞️ I’m currently working on Multi-Cloud and Multi-Cluster management: 
